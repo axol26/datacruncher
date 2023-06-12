@@ -1,2 +1,3 @@
 # datacruncher
 DataCruncher v4.0
+The Data Cruncher Tool is inspired to automate processing large amounts of STDF datalog information and cover some data analysis to help in making engineering decisions. This tool was first used for Qualification Activities to automate aggregation and crunching of data. The tool offered several advantages such as; (1) it enables T0 datalogs from bulk handler run to be easily traced back through automated data aggregation, (2) human error during manual serialization is eliminated, (3) detect missing datalogs, false datalogs, and/or units for retest, and (4) cycle time for overall data analysis and endorsement is improved.
